@@ -1,3 +1,5 @@
+# DEPRECATED, CAME OUT BEFORE CHEAT ENGINE HAD ITS CURRENT C COMPILER
+
 # tccCeApi
 Tiny C wrapper for cheat engine's lua
 
